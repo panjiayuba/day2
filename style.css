@@ -1,0 +1,36 @@
+.navbar     {
+    width: 100%;
+}
+.boxawal    {
+    width: 800px;
+    height: auto;
+    margin: auto;
+    background-color: rgb(220, 233, 237);
+    box-sizing: border-box;
+    display: flex;
+}
+.conten {
+    justify-content: start;
+    width: 60%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: start;
+    border-radius: 20%;
+}
+
+.card {
+    justify-content: end; 
+    width: 30%;    
+}
+
+.img    {
+    align-items: center;
+}
+
+.card-text {
+    z-index: 1;
+    text-align: center;
+}
+.social {
+    display: none;
+}
